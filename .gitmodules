@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = git@github.com:StevenDRiggs/backend.git
+	url = git@github.com:StevenDRiggs/cbinsights-newsletter-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:StevenDRiggs/frontend.git
+	url = git@github.com:StevenDRiggs/cbinsights-newsletter-frontend.git
